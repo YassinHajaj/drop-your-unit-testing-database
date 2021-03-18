@@ -1,5 +1,7 @@
 # Quarkus and TestContainers - Drop Your Unit Testing Database
 
+[Link to the blog](http://www.yassinhajaj.com/017-drop-your-unit-testing-database/drop-your-unit-testing-database/)
+
 ## What is TestContainers ?
 
 ![test-containers-logo](images/test-containers.svg)
